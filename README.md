@@ -10,4 +10,5 @@ The tool checks input file(s) for discounts availability, searches for purchase 
 Test files: 
 
 InvoiceExample.pdf
+
 InvoiceExapmleNoDiscounts.pdf
